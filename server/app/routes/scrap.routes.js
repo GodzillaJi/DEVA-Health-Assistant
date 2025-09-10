@@ -28,7 +28,5 @@ cheerio = require('cheerio'),
     })
   })
 
-
-
 module.exports = router;
 

@@ -1,10 +1,9 @@
-## AI-HealthCare-Assitant Flask Side 
+## AI-HealthCare-Assitant Flask Side
 
 ### 🚀 Built With
 
 You may find below the list of the frameworks/libraries that we used to build our project :
 <br/>
-
 
   <div align="center">
 	
