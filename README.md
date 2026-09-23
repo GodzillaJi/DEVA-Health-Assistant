@@ -70,35 +70,6 @@ Deva Health Assistant uses **MERN Stack** along with AI and ML frameworks.
 
 ---
 
-## ✨ Getting Started
-
-### 🚧 Prerequisites
-
--   MongoDB running on your system or Atlas account.
--   \`npm\` or \`yarn\` installed.
-
-### 🛠 Installation
-
-1. Clone the repo:  
-   \`\`\`bash
-   git clone https://github.com/mayank-mahtolia/Deva-Health-Assistant.git
-   \`\`\`
-2. Install dependencies:  
-   \`\`\`bash
-   npm install
-
-# or
-
-yarn install
-\`\`\`
-
-3. Run the backend server:  
-   \`\`\`bash
-   npm run development
-   \`\`\`
-4. Open frontend: [http://localhost:3000](http://localhost:3000)
-
----
 
 ## ⚡ Usage
 
@@ -117,21 +88,5 @@ yarn install
 -   Phase 1: Project Study, Requirements, Prototyping
 -   Phase 2: Feature Specification, Design, Development
 -   Phase 3: Advanced Features, Integration, Deployment, Testing
-
----
-
-## 💌 Contact
-
-**Mayank Mahtolia**  
-Email: mayank.mahtolia@example.com  
-GitHub: [https://github.com/mayank-mahtolia](https://github.com/mayank-mahtolia)
-
----
-
-## 🙌 Acknowledgments
-
--   [Choose an Open Source License](https://choosealicense.com)
--   [Img Shields](https://shields.io)
--   [Font Awesome](https://fontawesome.com)
 
 Developed  by **Mayank Mahtolia**" > Deva-Health-Assistant.md
